@@ -1,0 +1,20 @@
+
+.container{
+
+    margin:0 auto;
+    width: 940px;
+} 
+
+{
+    border-bottom: 1px solid;  
+    color: darkgray;
+}
+
+#divisao{
+    border-bottom: 1px solid;
+    color: darkgray;
+    margin: 20px 0px 0px 0px;
+}
+table, td, th {
+    border: 1px solid black;
+  }
